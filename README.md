@@ -131,6 +131,14 @@ A코스 시내 도로 주행, B코스 복합 도로 주행, T자 주차, 평행 
 ### 결과 상세창
 <img width="1067" height="342" alt="image" src="https://github.com/user-attachments/assets/5b2d08eb-8f61-4b11-881e-f0e10f31f817" />
 
+### 충돌 창
+<img width="1067" height="338" alt="image" src="https://github.com/user-attachments/assets/57d2bfe8-bbce-4412-96b4-d67ae2efc87d" />
+
+### 충돌 상세창
+<img width="1063" height="340" alt="image" src="https://github.com/user-attachments/assets/19b4fe7f-c8cc-4ab3-b969-4a71687d8560" />
+
+
+
 
 ---
 
@@ -143,3 +151,5 @@ A코스 시내 도로 주행, B코스 복합 도로 주행, T자 주차, 평행 
 
 ---
 
+## 9. 시연 영상
+https://youtu.be/G-jD45zPmvU
